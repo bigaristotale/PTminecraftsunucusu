@@ -1,0 +1,283 @@
+{
+  "Type": "NORMAL",
+  "Loot": [
+    {
+      "Chance": 100.0,
+      "Min": 1,
+      "Max": 1,
+      "Looting": true,
+      "Child Loot Drop Count Min": 1,
+      "Child Loot Drop Count Max": 1,
+      "Child Loot": [
+        {
+          "Type": "COD",
+          "Burned Type": "COOKED_COD",
+          "Chance": 51.0,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 50.8,
+            "LUCK:1": 50.9,
+            "LUCK:3": 50.7
+          },
+          "Looting": true
+        },
+        {
+          "Type": "SALMON",
+          "Data": 1,
+          "Burned Type": "COOKED_SALMON",
+          "Chance": 51.0,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 21.2,
+            "LUCK:1": 21.2,
+            "LUCK:3": 21.1
+          },
+          "Looting": true
+        },
+        {
+          "Type": "TROPICAL_FISH",
+          "Data": 2,
+          "Chance": 1.7,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "PUFFERFISH",
+          "Data": 3,
+          "Chance": 11.1,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 11.0,
+            "LUCK:1": 11.0,
+            "LUCK:3": 11.0
+          },
+          "Looting": true
+        },
+        {
+          "Type": "BOW",
+          "Enchantments": {
+            "RANDOM": 26
+          },
+          "Chance": 0.7,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 1.3,
+            "LUCK:1": 1.0,
+            "LUCK:3": 1.6
+          },
+          "Damage Min": 10,
+          "Damage Max": 100,
+          "Looting": true
+        },
+        {
+          "Type": "BOOK",
+          "Enchantments": {
+            "RANDOM": 26
+          },
+          "Chance": 0.7,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 1.3,
+            "LUCK:1": 1.0,
+            "LUCK:3": 1.6
+          },
+          "Damage Min": 10,
+          "Damage Max": 100,
+          "Looting": true
+        },
+        {
+          "Type": "FISHING_ROD",
+          "Enchantments": {
+            "RANDOM": 26
+          },
+          "Chance": 0.7,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 1.3,
+            "LUCK:1": 1.0,
+            "LUCK:3": 1.6
+          },
+          "Damage Min": 10,
+          "Damage Max": 100,
+          "Looting": true
+        },
+        {
+          "Type": "NAME_TAG",
+          "Chance": 0.7,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 1.3,
+            "LUCK:1": 1.0,
+            "LUCK:3": 1.6
+          },
+          "Looting": true
+        },
+        {
+          "Type": "NAUTILUS_SHELL",
+          "Chance": 0.7,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 1.3,
+            "LUCK:1": 1.0,
+            "LUCK:3": 1.6
+          },
+          "Looting": true
+        },
+        {
+          "Type": "SADDLE",
+          "Chance": 0.7,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 1.3,
+            "LUCK:1": 1.0,
+            "LUCK:3": 1.6
+          },
+          "Looting": true
+        },
+        {
+          "Type": "LILY_PAD",
+          "Chance": 0.7,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 1.3,
+            "LUCK:1": 1.0,
+            "LUCK:3": 1.6
+          },
+          "Looting": true
+        },
+        {
+          "Type": "BOWL",
+          "Chance": 1.2,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 0.7,
+            "LUCK:1": 1.0,
+            "LUCK:3": 0.5
+          },
+          "Looting": true
+        },
+        {
+          "Type": "FISHING_ROD",
+          "Chance": 0.2,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 0.1,
+            "LUCK:1": 0.2,
+            "LUCK:3": 0.1
+          },
+          "Damage Min": 10,
+          "Damage Max": 100,
+          "Looting": true
+        },
+        {
+          "Type": "LEATHER",
+          "Chance": 1.2,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 0.7,
+            "LUCK:1": 1.0,
+            "LUCK:3": 0.5
+          },
+          "Damage Min": 10,
+          "Damage Max": 100,
+          "Looting": true
+        },
+        {
+          "Type": "LEATHER_BOOTS",
+          "Chance": 1.2,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 0.7,
+            "LUCK:1": 1.0,
+            "LUCK:3": 0.5
+          },
+          "Damage Min": 10,
+          "Damage Max": 100,
+          "Looting": true
+        },
+        {
+          "Type": "ROTTEN_FLESH",
+          "Chance": 1.2,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 0.7,
+            "LUCK:1": 1.0,
+            "LUCK:3": 0.5
+          },
+          "Looting": true
+        },
+        {
+          "Type": "STICK",
+          "Chance": 0.6,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 0.4,
+            "LUCK:1": 0.5,
+            "LUCK:3": 0.3
+          },
+          "Looting": true
+        },
+        {
+          "Type": "STRING",
+          "Chance": 0.6,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 0.4,
+            "LUCK:1": 0.5,
+            "LUCK:3": 0.3
+          },
+          "Looting": true
+        },
+        {
+          "Type": "BONE",
+          "Chance": 1.2,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 0.7,
+            "LUCK:1": 1.0,
+            "LUCK:3": 0.5
+          },
+          "Looting": true
+        },
+        {
+          "Type": "INK_SAC",
+          "Chance": 0.1,
+          "Min": 1,
+          "Max": 1,
+          "Looting": true
+        },
+        {
+          "Type": "TRIPWIRE_HOOK",
+          "Chance": 1.2,
+          "Min": 1,
+          "Max": 1,
+          "Wielded Enchantment Chance Overrides": {
+            "LUCK:2": 0.7,
+            "LUCK:1": 1.0,
+            "LUCK:3": 0.5
+          },
+          "Looting": true
+        }
+      ]
+    }
+  ]
+}

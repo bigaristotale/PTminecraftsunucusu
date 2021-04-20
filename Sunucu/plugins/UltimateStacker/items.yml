@@ -1,0 +1,4309 @@
+Items:
+  AIR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Aır
+  STONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone
+  GRANITE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Granıte
+  POLISHED_GRANITE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Granıte
+  DIORITE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıorıte
+  POLISHED_DIORITE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Dıorıte
+  ANDESITE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Andesıte
+  POLISHED_ANDESITE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Andesıte
+  GRASS_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Grass Block
+  DIRT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dırt
+  COARSE_DIRT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Coarse Dırt
+  PODZOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Podzol
+  CRIMSON_NYLIUM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Nylıum
+  WARPED_NYLIUM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Nylıum
+  COBBLESTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cobblestone
+  OAK_PLANKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Planks
+  SPRUCE_PLANKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Planks
+  BIRCH_PLANKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Planks
+  JUNGLE_PLANKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Planks
+  ACACIA_PLANKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Planks
+  DARK_OAK_PLANKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Planks
+  CRIMSON_PLANKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Planks
+  WARPED_PLANKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Planks
+  OAK_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Saplıng
+  SPRUCE_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Saplıng
+  BIRCH_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Saplıng
+  JUNGLE_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Saplıng
+  ACACIA_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Saplıng
+  DARK_OAK_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Saplıng
+  BEDROCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bedrock
+  SAND:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sand
+  RED_SAND:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Sand
+  GRAVEL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gravel
+  GOLD_ORE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gold Ore
+  IRON_ORE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Ore
+  COAL_ORE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Coal Ore
+  NETHER_GOLD_ORE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Gold Ore
+  OAK_LOG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Log
+  SPRUCE_LOG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Log
+  BIRCH_LOG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Log
+  JUNGLE_LOG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Log
+  ACACIA_LOG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Log
+  DARK_OAK_LOG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Log
+  CRIMSON_STEM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Stem
+  WARPED_STEM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Stem
+  STRIPPED_OAK_LOG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Oak Log
+  STRIPPED_SPRUCE_LOG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Spruce Log
+  STRIPPED_BIRCH_LOG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Bırch Log
+  STRIPPED_JUNGLE_LOG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Jungle Log
+  STRIPPED_ACACIA_LOG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Acacıa Log
+  STRIPPED_DARK_OAK_LOG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Dark Oak Log
+  STRIPPED_CRIMSON_STEM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Crımson Stem
+  STRIPPED_WARPED_STEM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Warped Stem
+  STRIPPED_OAK_WOOD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Oak Wood
+  STRIPPED_SPRUCE_WOOD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Spruce Wood
+  STRIPPED_BIRCH_WOOD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Bırch Wood
+  STRIPPED_JUNGLE_WOOD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Jungle Wood
+  STRIPPED_ACACIA_WOOD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Acacıa Wood
+  STRIPPED_DARK_OAK_WOOD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Dark Oak Wood
+  STRIPPED_CRIMSON_HYPHAE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Crımson Hyphae
+  STRIPPED_WARPED_HYPHAE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıpped Warped Hyphae
+  OAK_WOOD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Wood
+  SPRUCE_WOOD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Wood
+  BIRCH_WOOD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Wood
+  JUNGLE_WOOD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Wood
+  ACACIA_WOOD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Wood
+  DARK_OAK_WOOD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Wood
+  CRIMSON_HYPHAE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Hyphae
+  WARPED_HYPHAE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Hyphae
+  OAK_LEAVES:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Leaves
+  SPRUCE_LEAVES:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Leaves
+  BIRCH_LEAVES:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Leaves
+  JUNGLE_LEAVES:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Leaves
+  ACACIA_LEAVES:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Leaves
+  DARK_OAK_LEAVES:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Leaves
+  SPONGE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sponge
+  WET_SPONGE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wet Sponge
+  GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Glass
+  LAPIS_ORE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lapıs Ore
+  LAPIS_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lapıs Block
+  DISPENSER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıspenser
+  SANDSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sandstone
+  CHISELED_SANDSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chıseled Sandstone
+  CUT_SANDSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cut Sandstone
+  NOTE_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Note Block
+  POWERED_RAIL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Powered Raıl
+  DETECTOR_RAIL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Detector Raıl
+  STICKY_PISTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stıcky Pıston
+  COBWEB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cobweb
+  GRASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Grass
+  FERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fern
+  DEAD_BUSH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Bush
+  SEAGRASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Seagrass
+  SEA_PICKLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sea Pıckle
+  PISTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pıston
+  WHITE_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Wool
+  ORANGE_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Wool
+  MAGENTA_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Wool
+  LIGHT_BLUE_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Wool
+  YELLOW_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Wool
+  LIME_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Wool
+  PINK_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Wool
+  GRAY_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Wool
+  LIGHT_GRAY_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Wool
+  CYAN_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Wool
+  PURPLE_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Wool
+  BLUE_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Wool
+  BROWN_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Wool
+  GREEN_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Wool
+  RED_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Wool
+  BLACK_WOOL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Wool
+  DANDELION:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dandelıon
+  POPPY:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Poppy
+  BLUE_ORCHID:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Orchıd
+  ALLIUM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Allıum
+  AZURE_BLUET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Azure Bluet
+  RED_TULIP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Tulıp
+  ORANGE_TULIP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Tulıp
+  WHITE_TULIP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Tulıp
+  PINK_TULIP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Tulıp
+  OXEYE_DAISY:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oxeye Daısy
+  CORNFLOWER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cornflower
+  LILY_OF_THE_VALLEY:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıly Of The Valley
+  WITHER_ROSE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wıther Rose
+  BROWN_MUSHROOM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Mushroom
+  RED_MUSHROOM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Mushroom
+  CRIMSON_FUNGUS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Fungus
+  WARPED_FUNGUS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Fungus
+  CRIMSON_ROOTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Roots
+  WARPED_ROOTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Roots
+  NETHER_SPROUTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Sprouts
+  WEEPING_VINES:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Weepıng Vınes
+  TWISTING_VINES:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Twıstıng Vınes
+  SUGAR_CANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sugar Cane
+  KELP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Kelp
+  BAMBOO:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bamboo
+  GOLD_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gold Block
+  IRON_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Block
+  OAK_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Slab
+  SPRUCE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Slab
+  BIRCH_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Slab
+  JUNGLE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Slab
+  ACACIA_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Slab
+  DARK_OAK_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Slab
+  CRIMSON_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Slab
+  WARPED_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Slab
+  STONE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Slab
+  SMOOTH_STONE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smooth Stone Slab
+  SANDSTONE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sandstone Slab
+  CUT_SANDSTONE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cut Sandstone Slab
+  PETRIFIED_OAK_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Petrıfıed Oak Slab
+  COBBLESTONE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cobblestone Slab
+  BRICK_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brıck Slab
+  STONE_BRICK_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Brıck Slab
+  NETHER_BRICK_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Brıck Slab
+  QUARTZ_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Quartz Slab
+  RED_SANDSTONE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Sandstone Slab
+  CUT_RED_SANDSTONE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cut Red Sandstone Slab
+  PURPUR_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purpur Slab
+  PRISMARINE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Prısmarıne Slab
+  PRISMARINE_BRICK_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Prısmarıne Brıck Slab
+  DARK_PRISMARINE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Prısmarıne Slab
+  SMOOTH_QUARTZ:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smooth Quartz
+  SMOOTH_RED_SANDSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smooth Red Sandstone
+  SMOOTH_SANDSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smooth Sandstone
+  SMOOTH_STONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smooth Stone
+  BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brıcks
+  TNT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Tnt
+  BOOKSHELF:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bookshelf
+  MOSSY_COBBLESTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mossy Cobblestone
+  OBSIDIAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Obsıdıan
+  TORCH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Torch
+  END_ROD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: End Rod
+  CHORUS_PLANT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chorus Plant
+  CHORUS_FLOWER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chorus Flower
+  PURPUR_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purpur Block
+  PURPUR_PILLAR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purpur Pıllar
+  PURPUR_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purpur Staırs
+  SPAWNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spawner
+  OAK_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Staırs
+  CHEST:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chest
+  DIAMOND_ORE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond Ore
+  DIAMOND_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond Block
+  CRAFTING_TABLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Craftıng Table
+  FARMLAND:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Farmland
+  FURNACE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Furnace
+  LADDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Ladder
+  RAIL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Raıl
+  COBBLESTONE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cobblestone Staırs
+  LEVER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lever
+  STONE_PRESSURE_PLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Pressure Plate
+  OAK_PRESSURE_PLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Pressure Plate
+  SPRUCE_PRESSURE_PLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Pressure Plate
+  BIRCH_PRESSURE_PLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Pressure Plate
+  JUNGLE_PRESSURE_PLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Pressure Plate
+  ACACIA_PRESSURE_PLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Pressure Plate
+  DARK_OAK_PRESSURE_PLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Pressure Plate
+  CRIMSON_PRESSURE_PLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Pressure Plate
+  WARPED_PRESSURE_PLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Pressure Plate
+  POLISHED_BLACKSTONE_PRESSURE_PLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Blackstone Pressure Plate
+  REDSTONE_ORE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Redstone Ore
+  REDSTONE_TORCH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Redstone Torch
+  SNOW:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Snow
+  ICE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Ice
+  SNOW_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Snow Block
+  CACTUS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cactus
+  CLAY:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Clay
+  JUKEBOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jukebox
+  OAK_FENCE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Fence
+  SPRUCE_FENCE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Fence
+  BIRCH_FENCE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Fence
+  JUNGLE_FENCE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Fence
+  ACACIA_FENCE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Fence
+  DARK_OAK_FENCE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Fence
+  CRIMSON_FENCE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Fence
+  WARPED_FENCE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Fence
+  PUMPKIN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pumpkın
+  CARVED_PUMPKIN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Carved Pumpkın
+  NETHERRACK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherrack
+  SOUL_SAND:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Soul Sand
+  SOUL_SOIL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Soul Soıl
+  BASALT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Basalt
+  POLISHED_BASALT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Basalt
+  SOUL_TORCH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Soul Torch
+  GLOWSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Glowstone
+  JACK_O_LANTERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jack O Lantern
+  OAK_TRAPDOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Trapdoor
+  SPRUCE_TRAPDOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Trapdoor
+  BIRCH_TRAPDOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Trapdoor
+  JUNGLE_TRAPDOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Trapdoor
+  ACACIA_TRAPDOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Trapdoor
+  DARK_OAK_TRAPDOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Trapdoor
+  CRIMSON_TRAPDOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Trapdoor
+  WARPED_TRAPDOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Trapdoor
+  INFESTED_STONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Infested Stone
+  INFESTED_COBBLESTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Infested Cobblestone
+  INFESTED_STONE_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Infested Stone Brıcks
+  INFESTED_MOSSY_STONE_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Infested Mossy Stone Brıcks
+  INFESTED_CRACKED_STONE_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Infested Cracked Stone Brıcks
+  INFESTED_CHISELED_STONE_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Infested Chıseled Stone Brıcks
+  STONE_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Brıcks
+  MOSSY_STONE_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mossy Stone Brıcks
+  CRACKED_STONE_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cracked Stone Brıcks
+  CHISELED_STONE_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chıseled Stone Brıcks
+  BROWN_MUSHROOM_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Mushroom Block
+  RED_MUSHROOM_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Mushroom Block
+  MUSHROOM_STEM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mushroom Stem
+  IRON_BARS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Bars
+  CHAIN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chaın
+  GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Glass Pane
+  MELON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Melon
+  VINE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Vıne
+  OAK_FENCE_GATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Fence Gate
+  SPRUCE_FENCE_GATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Fence Gate
+  BIRCH_FENCE_GATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Fence Gate
+  JUNGLE_FENCE_GATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Fence Gate
+  ACACIA_FENCE_GATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Fence Gate
+  DARK_OAK_FENCE_GATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Fence Gate
+  CRIMSON_FENCE_GATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Fence Gate
+  WARPED_FENCE_GATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Fence Gate
+  BRICK_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brıck Staırs
+  STONE_BRICK_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Brıck Staırs
+  MYCELIUM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mycelıum
+  LILY_PAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıly Pad
+  NETHER_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Brıcks
+  CRACKED_NETHER_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cracked Nether Brıcks
+  CHISELED_NETHER_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chıseled Nether Brıcks
+  NETHER_BRICK_FENCE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Brıck Fence
+  NETHER_BRICK_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Brıck Staırs
+  ENCHANTING_TABLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Enchantıng Table
+  END_PORTAL_FRAME:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: End Portal Frame
+  END_STONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: End Stone
+  END_STONE_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: End Stone Brıcks
+  DRAGON_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dragon Egg
+  REDSTONE_LAMP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Redstone Lamp
+  SANDSTONE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sandstone Staırs
+  EMERALD_ORE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Emerald Ore
+  ENDER_CHEST:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Ender Chest
+  TRIPWIRE_HOOK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Trıpwıre Hook
+  EMERALD_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Emerald Block
+  SPRUCE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Staırs
+  BIRCH_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Staırs
+  JUNGLE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Staırs
+  CRIMSON_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Staırs
+  WARPED_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Staırs
+  COMMAND_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Command Block
+  BEACON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Beacon
+  COBBLESTONE_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cobblestone Wall
+  MOSSY_COBBLESTONE_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mossy Cobblestone Wall
+  BRICK_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brıck Wall
+  PRISMARINE_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Prısmarıne Wall
+  RED_SANDSTONE_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Sandstone Wall
+  MOSSY_STONE_BRICK_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mossy Stone Brıck Wall
+  GRANITE_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Granıte Wall
+  STONE_BRICK_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Brıck Wall
+  NETHER_BRICK_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Brıck Wall
+  ANDESITE_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Andesıte Wall
+  RED_NETHER_BRICK_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Nether Brıck Wall
+  SANDSTONE_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sandstone Wall
+  END_STONE_BRICK_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: End Stone Brıck Wall
+  DIORITE_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıorıte Wall
+  BLACKSTONE_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blackstone Wall
+  POLISHED_BLACKSTONE_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Blackstone Wall
+  POLISHED_BLACKSTONE_BRICK_WALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Blackstone Brıck Wall
+  STONE_BUTTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Button
+  OAK_BUTTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Button
+  SPRUCE_BUTTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Button
+  BIRCH_BUTTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Button
+  JUNGLE_BUTTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Button
+  ACACIA_BUTTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Button
+  DARK_OAK_BUTTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Button
+  CRIMSON_BUTTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Button
+  WARPED_BUTTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Button
+  POLISHED_BLACKSTONE_BUTTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Blackstone Button
+  ANVIL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Anvıl
+  CHIPPED_ANVIL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chıpped Anvıl
+  DAMAGED_ANVIL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Damaged Anvıl
+  TRAPPED_CHEST:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Trapped Chest
+  LIGHT_WEIGHTED_PRESSURE_PLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Weıghted Pressure Plate
+  HEAVY_WEIGHTED_PRESSURE_PLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Heavy Weıghted Pressure Plate
+  DAYLIGHT_DETECTOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Daylıght Detector
+  REDSTONE_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Redstone Block
+  NETHER_QUARTZ_ORE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Quartz Ore
+  HOPPER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Hopper
+  CHISELED_QUARTZ_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chıseled Quartz Block
+  QUARTZ_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Quartz Block
+  QUARTZ_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Quartz Brıcks
+  QUARTZ_PILLAR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Quartz Pıllar
+  QUARTZ_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Quartz Staırs
+  ACTIVATOR_RAIL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Actıvator Raıl
+  DROPPER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dropper
+  WHITE_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Terracotta
+  ORANGE_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Terracotta
+  MAGENTA_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Terracotta
+  LIGHT_BLUE_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Terracotta
+  YELLOW_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Terracotta
+  LIME_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Terracotta
+  PINK_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Terracotta
+  GRAY_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Terracotta
+  LIGHT_GRAY_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Terracotta
+  CYAN_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Terracotta
+  PURPLE_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Terracotta
+  BLUE_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Terracotta
+  BROWN_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Terracotta
+  GREEN_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Terracotta
+  RED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Terracotta
+  BLACK_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Terracotta
+  BARRIER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Barrıer
+  IRON_TRAPDOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Trapdoor
+  HAY_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Hay Block
+  WHITE_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Carpet
+  ORANGE_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Carpet
+  MAGENTA_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Carpet
+  LIGHT_BLUE_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Carpet
+  YELLOW_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Carpet
+  LIME_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Carpet
+  PINK_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Carpet
+  GRAY_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Carpet
+  LIGHT_GRAY_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Carpet
+  CYAN_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Carpet
+  PURPLE_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Carpet
+  BLUE_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Carpet
+  BROWN_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Carpet
+  GREEN_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Carpet
+  RED_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Carpet
+  BLACK_CARPET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Carpet
+  TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Terracotta
+  COAL_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Coal Block
+  PACKED_ICE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Packed Ice
+  ACACIA_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Staırs
+  DARK_OAK_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Staırs
+  SLIME_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Slıme Block
+  GRASS_PATH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Grass Path
+  SUNFLOWER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sunflower
+  LILAC:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lılac
+  ROSE_BUSH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Rose Bush
+  PEONY:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Peony
+  TALL_GRASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Tall Grass
+  LARGE_FERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Large Fern
+  WHITE_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Staıned Glass
+  ORANGE_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Staıned Glass
+  MAGENTA_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Staıned Glass
+  LIGHT_BLUE_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Staıned Glass
+  YELLOW_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Staıned Glass
+  LIME_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Staıned Glass
+  PINK_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Staıned Glass
+  GRAY_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Staıned Glass
+  LIGHT_GRAY_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Staıned Glass
+  CYAN_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Staıned Glass
+  PURPLE_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Staıned Glass
+  BLUE_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Staıned Glass
+  BROWN_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Staıned Glass
+  GREEN_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Staıned Glass
+  RED_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Staıned Glass
+  BLACK_STAINED_GLASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Staıned Glass
+  WHITE_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Staıned Glass Pane
+  ORANGE_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Staıned Glass Pane
+  MAGENTA_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Staıned Glass Pane
+  LIGHT_BLUE_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Staıned Glass Pane
+  YELLOW_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Staıned Glass Pane
+  LIME_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Staıned Glass Pane
+  PINK_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Staıned Glass Pane
+  GRAY_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Staıned Glass Pane
+  LIGHT_GRAY_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Staıned Glass Pane
+  CYAN_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Staıned Glass Pane
+  PURPLE_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Staıned Glass Pane
+  BLUE_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Staıned Glass Pane
+  BROWN_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Staıned Glass Pane
+  GREEN_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Staıned Glass Pane
+  RED_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Staıned Glass Pane
+  BLACK_STAINED_GLASS_PANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Staıned Glass Pane
+  PRISMARINE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Prısmarıne
+  PRISMARINE_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Prısmarıne Brıcks
+  DARK_PRISMARINE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Prısmarıne
+  PRISMARINE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Prısmarıne Staırs
+  PRISMARINE_BRICK_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Prısmarıne Brıck Staırs
+  DARK_PRISMARINE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Prısmarıne Staırs
+  SEA_LANTERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sea Lantern
+  RED_SANDSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Sandstone
+  CHISELED_RED_SANDSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chıseled Red Sandstone
+  CUT_RED_SANDSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cut Red Sandstone
+  RED_SANDSTONE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Sandstone Staırs
+  REPEATING_COMMAND_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Repeatıng Command Block
+  CHAIN_COMMAND_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chaın Command Block
+  MAGMA_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magma Block
+  NETHER_WART_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Wart Block
+  WARPED_WART_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Wart Block
+  RED_NETHER_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Nether Brıcks
+  BONE_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bone Block
+  STRUCTURE_VOID:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Structure Voıd
+  OBSERVER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Observer
+  SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Shulker Box
+  WHITE_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Shulker Box
+  ORANGE_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Shulker Box
+  MAGENTA_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Shulker Box
+  LIGHT_BLUE_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Shulker Box
+  YELLOW_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Shulker Box
+  LIME_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Shulker Box
+  PINK_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Shulker Box
+  GRAY_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Shulker Box
+  LIGHT_GRAY_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Shulker Box
+  CYAN_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Shulker Box
+  PURPLE_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Shulker Box
+  BLUE_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Shulker Box
+  BROWN_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Shulker Box
+  GREEN_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Shulker Box
+  RED_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Shulker Box
+  BLACK_SHULKER_BOX:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Shulker Box
+  WHITE_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Glazed Terracotta
+  ORANGE_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Glazed Terracotta
+  MAGENTA_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Glazed Terracotta
+  LIGHT_BLUE_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Glazed Terracotta
+  YELLOW_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Glazed Terracotta
+  LIME_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Glazed Terracotta
+  PINK_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Glazed Terracotta
+  GRAY_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Glazed Terracotta
+  LIGHT_GRAY_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Glazed Terracotta
+  CYAN_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Glazed Terracotta
+  PURPLE_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Glazed Terracotta
+  BLUE_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Glazed Terracotta
+  BROWN_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Glazed Terracotta
+  GREEN_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Glazed Terracotta
+  RED_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Glazed Terracotta
+  BLACK_GLAZED_TERRACOTTA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Glazed Terracotta
+  WHITE_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Concrete
+  ORANGE_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Concrete
+  MAGENTA_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Concrete
+  LIGHT_BLUE_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Concrete
+  YELLOW_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Concrete
+  LIME_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Concrete
+  PINK_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Concrete
+  GRAY_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Concrete
+  LIGHT_GRAY_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Concrete
+  CYAN_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Concrete
+  PURPLE_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Concrete
+  BLUE_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Concrete
+  BROWN_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Concrete
+  GREEN_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Concrete
+  RED_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Concrete
+  BLACK_CONCRETE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Concrete
+  WHITE_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Concrete Powder
+  ORANGE_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Concrete Powder
+  MAGENTA_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Concrete Powder
+  LIGHT_BLUE_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Concrete Powder
+  YELLOW_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Concrete Powder
+  LIME_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Concrete Powder
+  PINK_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Concrete Powder
+  GRAY_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Concrete Powder
+  LIGHT_GRAY_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Concrete Powder
+  CYAN_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Concrete Powder
+  PURPLE_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Concrete Powder
+  BLUE_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Concrete Powder
+  BROWN_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Concrete Powder
+  GREEN_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Concrete Powder
+  RED_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Concrete Powder
+  BLACK_CONCRETE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Concrete Powder
+  TURTLE_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Turtle Egg
+  DEAD_TUBE_CORAL_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Tube Coral Block
+  DEAD_BRAIN_CORAL_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Braın Coral Block
+  DEAD_BUBBLE_CORAL_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Bubble Coral Block
+  DEAD_FIRE_CORAL_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Fıre Coral Block
+  DEAD_HORN_CORAL_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Horn Coral Block
+  TUBE_CORAL_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Tube Coral Block
+  BRAIN_CORAL_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Braın Coral Block
+  BUBBLE_CORAL_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bubble Coral Block
+  FIRE_CORAL_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fıre Coral Block
+  HORN_CORAL_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Horn Coral Block
+  TUBE_CORAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Tube Coral
+  BRAIN_CORAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Braın Coral
+  BUBBLE_CORAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bubble Coral
+  FIRE_CORAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fıre Coral
+  HORN_CORAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Horn Coral
+  DEAD_BRAIN_CORAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Braın Coral
+  DEAD_BUBBLE_CORAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Bubble Coral
+  DEAD_FIRE_CORAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Fıre Coral
+  DEAD_HORN_CORAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Horn Coral
+  DEAD_TUBE_CORAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Tube Coral
+  TUBE_CORAL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Tube Coral Fan
+  BRAIN_CORAL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Braın Coral Fan
+  BUBBLE_CORAL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bubble Coral Fan
+  FIRE_CORAL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fıre Coral Fan
+  HORN_CORAL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Horn Coral Fan
+  DEAD_TUBE_CORAL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Tube Coral Fan
+  DEAD_BRAIN_CORAL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Braın Coral Fan
+  DEAD_BUBBLE_CORAL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Bubble Coral Fan
+  DEAD_FIRE_CORAL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Fıre Coral Fan
+  DEAD_HORN_CORAL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Horn Coral Fan
+  BLUE_ICE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Ice
+  CONDUIT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Conduıt
+  POLISHED_GRANITE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Granıte Staırs
+  SMOOTH_RED_SANDSTONE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smooth Red Sandstone Staırs
+  MOSSY_STONE_BRICK_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mossy Stone Brıck Staırs
+  POLISHED_DIORITE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Dıorıte Staırs
+  MOSSY_COBBLESTONE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mossy Cobblestone Staırs
+  END_STONE_BRICK_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: End Stone Brıck Staırs
+  STONE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Staırs
+  SMOOTH_SANDSTONE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smooth Sandstone Staırs
+  SMOOTH_QUARTZ_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smooth Quartz Staırs
+  GRANITE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Granıte Staırs
+  ANDESITE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Andesıte Staırs
+  RED_NETHER_BRICK_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Nether Brıck Staırs
+  POLISHED_ANDESITE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Andesıte Staırs
+  DIORITE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıorıte Staırs
+  POLISHED_GRANITE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Granıte Slab
+  SMOOTH_RED_SANDSTONE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smooth Red Sandstone Slab
+  MOSSY_STONE_BRICK_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mossy Stone Brıck Slab
+  POLISHED_DIORITE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Dıorıte Slab
+  MOSSY_COBBLESTONE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mossy Cobblestone Slab
+  END_STONE_BRICK_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: End Stone Brıck Slab
+  SMOOTH_SANDSTONE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smooth Sandstone Slab
+  SMOOTH_QUARTZ_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smooth Quartz Slab
+  GRANITE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Granıte Slab
+  ANDESITE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Andesıte Slab
+  RED_NETHER_BRICK_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Nether Brıck Slab
+  POLISHED_ANDESITE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Andesıte Slab
+  DIORITE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıorıte Slab
+  SCAFFOLDING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Scaffoldıng
+  IRON_DOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Door
+  OAK_DOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Door
+  SPRUCE_DOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Door
+  BIRCH_DOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Door
+  JUNGLE_DOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Door
+  ACACIA_DOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Door
+  DARK_OAK_DOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Door
+  CRIMSON_DOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Door
+  WARPED_DOOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Door
+  REPEATER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Repeater
+  COMPARATOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Comparator
+  STRUCTURE_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Structure Block
+  JIGSAW:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jıgsaw
+  TURTLE_HELMET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Turtle Helmet
+  SCUTE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Scute
+  FLINT_AND_STEEL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Flınt And Steel
+  APPLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Apple
+  BOW:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bow
+  ARROW:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Arrow
+  COAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Coal
+  CHARCOAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Charcoal
+  DIAMOND:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond
+  IRON_INGOT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Ingot
+  GOLD_INGOT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gold Ingot
+  NETHERITE_INGOT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherıte Ingot
+  NETHERITE_SCRAP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherıte Scrap
+  WOODEN_SWORD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wooden Sword
+  WOODEN_SHOVEL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wooden Shovel
+  WOODEN_PICKAXE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wooden Pıckaxe
+  WOODEN_AXE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wooden Axe
+  WOODEN_HOE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wooden Hoe
+  STONE_SWORD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Sword
+  STONE_SHOVEL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Shovel
+  STONE_PICKAXE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Pıckaxe
+  STONE_AXE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Axe
+  STONE_HOE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stone Hoe
+  GOLDEN_SWORD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Golden Sword
+  GOLDEN_SHOVEL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Golden Shovel
+  GOLDEN_PICKAXE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Golden Pıckaxe
+  GOLDEN_AXE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Golden Axe
+  GOLDEN_HOE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Golden Hoe
+  IRON_SWORD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Sword
+  IRON_SHOVEL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Shovel
+  IRON_PICKAXE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Pıckaxe
+  IRON_AXE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Axe
+  IRON_HOE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Hoe
+  DIAMOND_SWORD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond Sword
+  DIAMOND_SHOVEL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond Shovel
+  DIAMOND_PICKAXE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond Pıckaxe
+  DIAMOND_AXE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond Axe
+  DIAMOND_HOE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond Hoe
+  NETHERITE_SWORD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherıte Sword
+  NETHERITE_SHOVEL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherıte Shovel
+  NETHERITE_PICKAXE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherıte Pıckaxe
+  NETHERITE_AXE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherıte Axe
+  NETHERITE_HOE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherıte Hoe
+  STICK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stıck
+  BOWL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bowl
+  MUSHROOM_STEW:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mushroom Stew
+  STRING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıng
+  FEATHER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Feather
+  GUNPOWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gunpowder
+  WHEAT_SEEDS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wheat Seeds
+  WHEAT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wheat
+  BREAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bread
+  LEATHER_HELMET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Leather Helmet
+  LEATHER_CHESTPLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Leather Chestplate
+  LEATHER_LEGGINGS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Leather Leggıngs
+  LEATHER_BOOTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Leather Boots
+  CHAINMAIL_HELMET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chaınmaıl Helmet
+  CHAINMAIL_CHESTPLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chaınmaıl Chestplate
+  CHAINMAIL_LEGGINGS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chaınmaıl Leggıngs
+  CHAINMAIL_BOOTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chaınmaıl Boots
+  IRON_HELMET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Helmet
+  IRON_CHESTPLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Chestplate
+  IRON_LEGGINGS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Leggıngs
+  IRON_BOOTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Boots
+  DIAMOND_HELMET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond Helmet
+  DIAMOND_CHESTPLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond Chestplate
+  DIAMOND_LEGGINGS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond Leggıngs
+  DIAMOND_BOOTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond Boots
+  GOLDEN_HELMET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Golden Helmet
+  GOLDEN_CHESTPLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Golden Chestplate
+  GOLDEN_LEGGINGS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Golden Leggıngs
+  GOLDEN_BOOTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Golden Boots
+  NETHERITE_HELMET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherıte Helmet
+  NETHERITE_CHESTPLATE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherıte Chestplate
+  NETHERITE_LEGGINGS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherıte Leggıngs
+  NETHERITE_BOOTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherıte Boots
+  FLINT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Flınt
+  PORKCHOP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Porkchop
+  COOKED_PORKCHOP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cooked Porkchop
+  PAINTING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Paıntıng
+  GOLDEN_APPLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Golden Apple
+  ENCHANTED_GOLDEN_APPLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Enchanted Golden Apple
+  OAK_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Sıgn
+  SPRUCE_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Sıgn
+  BIRCH_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Sıgn
+  JUNGLE_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Sıgn
+  ACACIA_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Sıgn
+  DARK_OAK_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Sıgn
+  CRIMSON_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Sıgn
+  WARPED_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Sıgn
+  BUCKET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bucket
+  WATER_BUCKET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Water Bucket
+  LAVA_BUCKET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lava Bucket
+  MINECART:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mınecart
+  SADDLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Saddle
+  REDSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Redstone
+  SNOWBALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Snowball
+  OAK_BOAT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Boat
+  LEATHER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Leather
+  MILK_BUCKET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mılk Bucket
+  PUFFERFISH_BUCKET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pufferfısh Bucket
+  SALMON_BUCKET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Salmon Bucket
+  COD_BUCKET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cod Bucket
+  TROPICAL_FISH_BUCKET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Tropıcal Fısh Bucket
+  BRICK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brıck
+  CLAY_BALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Clay Ball
+  DRIED_KELP_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Drıed Kelp Block
+  PAPER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Paper
+  BOOK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Book
+  SLIME_BALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Slıme Ball
+  CHEST_MINECART:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chest Mınecart
+  FURNACE_MINECART:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Furnace Mınecart
+  EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Egg
+  COMPASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Compass
+  FISHING_ROD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fıshıng Rod
+  CLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Clock
+  GLOWSTONE_DUST:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Glowstone Dust
+  COD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cod
+  SALMON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Salmon
+  TROPICAL_FISH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Tropıcal Fısh
+  PUFFERFISH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pufferfısh
+  COOKED_COD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cooked Cod
+  COOKED_SALMON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cooked Salmon
+  INK_SAC:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Ink Sac
+  COCOA_BEANS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cocoa Beans
+  LAPIS_LAZULI:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lapıs Lazulı
+  WHITE_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Dye
+  ORANGE_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Dye
+  MAGENTA_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Dye
+  LIGHT_BLUE_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Dye
+  YELLOW_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Dye
+  LIME_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Dye
+  PINK_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Dye
+  GRAY_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Dye
+  LIGHT_GRAY_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Dye
+  CYAN_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Dye
+  PURPLE_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Dye
+  BLUE_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Dye
+  BROWN_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Dye
+  GREEN_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Dye
+  RED_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Dye
+  BLACK_DYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Dye
+  BONE_MEAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bone Meal
+  BONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bone
+  SUGAR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sugar
+  CAKE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cake
+  WHITE_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Bed
+  ORANGE_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Bed
+  MAGENTA_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Bed
+  LIGHT_BLUE_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Bed
+  YELLOW_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Bed
+  LIME_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Bed
+  PINK_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Bed
+  GRAY_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Bed
+  LIGHT_GRAY_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Bed
+  CYAN_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Bed
+  PURPLE_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Bed
+  BLUE_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Bed
+  BROWN_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Bed
+  GREEN_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Bed
+  RED_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Bed
+  BLACK_BED:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Bed
+  COOKIE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cookıe
+  FILLED_MAP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fılled Map
+  SHEARS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Shears
+  MELON_SLICE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Melon Slıce
+  DRIED_KELP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Drıed Kelp
+  PUMPKIN_SEEDS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pumpkın Seeds
+  MELON_SEEDS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Melon Seeds
+  BEEF:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Beef
+  COOKED_BEEF:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cooked Beef
+  CHICKEN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chıcken
+  COOKED_CHICKEN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cooked Chıcken
+  ROTTEN_FLESH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Rotten Flesh
+  ENDER_PEARL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Ender Pearl
+  BLAZE_ROD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blaze Rod
+  GHAST_TEAR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Ghast Tear
+  GOLD_NUGGET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gold Nugget
+  NETHER_WART:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Wart
+  POTION:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potıon
+  GLASS_BOTTLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Glass Bottle
+  SPIDER_EYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spıder Eye
+  FERMENTED_SPIDER_EYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fermented Spıder Eye
+  BLAZE_POWDER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blaze Powder
+  MAGMA_CREAM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magma Cream
+  BREWING_STAND:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brewıng Stand
+  CAULDRON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cauldron
+  ENDER_EYE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Ender Eye
+  GLISTERING_MELON_SLICE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Glısterıng Melon Slıce
+  BAT_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bat Spawn Egg
+  BEE_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bee Spawn Egg
+  BLAZE_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blaze Spawn Egg
+  CAT_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cat Spawn Egg
+  CAVE_SPIDER_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cave Spıder Spawn Egg
+  CHICKEN_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chıcken Spawn Egg
+  COD_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cod Spawn Egg
+  COW_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cow Spawn Egg
+  CREEPER_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Creeper Spawn Egg
+  DOLPHIN_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dolphın Spawn Egg
+  DONKEY_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Donkey Spawn Egg
+  DROWNED_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Drowned Spawn Egg
+  ELDER_GUARDIAN_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Elder Guardıan Spawn Egg
+  ENDERMAN_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Enderman Spawn Egg
+  ENDERMITE_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Endermıte Spawn Egg
+  EVOKER_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Evoker Spawn Egg
+  FOX_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fox Spawn Egg
+  GHAST_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Ghast Spawn Egg
+  GUARDIAN_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Guardıan Spawn Egg
+  HOGLIN_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Hoglın Spawn Egg
+  HORSE_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Horse Spawn Egg
+  HUSK_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Husk Spawn Egg
+  LLAMA_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Llama Spawn Egg
+  MAGMA_CUBE_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magma Cube Spawn Egg
+  MOOSHROOM_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mooshroom Spawn Egg
+  MULE_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mule Spawn Egg
+  OCELOT_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Ocelot Spawn Egg
+  PANDA_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Panda Spawn Egg
+  PARROT_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Parrot Spawn Egg
+  PHANTOM_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Phantom Spawn Egg
+  PIG_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pıg Spawn Egg
+  PIGLIN_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pıglın Spawn Egg
+  PIGLIN_BRUTE_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pıglın Brute Spawn Egg
+  PILLAGER_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pıllager Spawn Egg
+  POLAR_BEAR_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polar Bear Spawn Egg
+  PUFFERFISH_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pufferfısh Spawn Egg
+  RABBIT_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Rabbıt Spawn Egg
+  RAVAGER_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Ravager Spawn Egg
+  SALMON_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Salmon Spawn Egg
+  SHEEP_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sheep Spawn Egg
+  SHULKER_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Shulker Spawn Egg
+  SILVERFISH_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sılverfısh Spawn Egg
+  SKELETON_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Skeleton Spawn Egg
+  SKELETON_HORSE_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Skeleton Horse Spawn Egg
+  SLIME_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Slıme Spawn Egg
+  SPIDER_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spıder Spawn Egg
+  SQUID_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Squıd Spawn Egg
+  STRAY_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stray Spawn Egg
+  STRIDER_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Strıder Spawn Egg
+  TRADER_LLAMA_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Trader Llama Spawn Egg
+  TROPICAL_FISH_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Tropıcal Fısh Spawn Egg
+  TURTLE_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Turtle Spawn Egg
+  VEX_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Vex Spawn Egg
+  VILLAGER_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Vıllager Spawn Egg
+  VINDICATOR_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Vındıcator Spawn Egg
+  WANDERING_TRADER_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wanderıng Trader Spawn Egg
+  WITCH_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wıtch Spawn Egg
+  WITHER_SKELETON_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wıther Skeleton Spawn Egg
+  WOLF_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wolf Spawn Egg
+  ZOGLIN_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Zoglın Spawn Egg
+  ZOMBIE_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Zombıe Spawn Egg
+  ZOMBIE_HORSE_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Zombıe Horse Spawn Egg
+  ZOMBIE_VILLAGER_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Zombıe Vıllager Spawn Egg
+  ZOMBIFIED_PIGLIN_SPAWN_EGG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Zombıfıed Pıglın Spawn Egg
+  EXPERIENCE_BOTTLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Experıence Bottle
+  FIRE_CHARGE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fıre Charge
+  WRITABLE_BOOK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wrıtable Book
+  WRITTEN_BOOK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wrıtten Book
+  EMERALD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Emerald
+  ITEM_FRAME:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Item Frame
+  FLOWER_POT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Flower Pot
+  CARROT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Carrot
+  POTATO:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potato
+  BAKED_POTATO:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Baked Potato
+  POISONOUS_POTATO:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Poısonous Potato
+  MAP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Map
+  GOLDEN_CARROT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Golden Carrot
+  SKELETON_SKULL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Skeleton Skull
+  WITHER_SKELETON_SKULL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wıther Skeleton Skull
+  PLAYER_HEAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Player Head
+  ZOMBIE_HEAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Zombıe Head
+  CREEPER_HEAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Creeper Head
+  DRAGON_HEAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dragon Head
+  CARROT_ON_A_STICK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Carrot On A Stıck
+  WARPED_FUNGUS_ON_A_STICK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Fungus On A Stıck
+  NETHER_STAR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Star
+  PUMPKIN_PIE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pumpkın Pıe
+  FIREWORK_ROCKET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fırework Rocket
+  FIREWORK_STAR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fırework Star
+  ENCHANTED_BOOK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Enchanted Book
+  NETHER_BRICK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Brıck
+  QUARTZ:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Quartz
+  TNT_MINECART:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Tnt Mınecart
+  HOPPER_MINECART:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Hopper Mınecart
+  PRISMARINE_SHARD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Prısmarıne Shard
+  PRISMARINE_CRYSTALS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Prısmarıne Crystals
+  RABBIT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Rabbıt
+  COOKED_RABBIT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cooked Rabbıt
+  RABBIT_STEW:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Rabbıt Stew
+  RABBIT_FOOT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Rabbıt Foot
+  RABBIT_HIDE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Rabbıt Hıde
+  ARMOR_STAND:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Armor Stand
+  IRON_HORSE_ARMOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Horse Armor
+  GOLDEN_HORSE_ARMOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Golden Horse Armor
+  DIAMOND_HORSE_ARMOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dıamond Horse Armor
+  LEATHER_HORSE_ARMOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Leather Horse Armor
+  LEAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lead
+  NAME_TAG:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Name Tag
+  COMMAND_BLOCK_MINECART:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Command Block Mınecart
+  MUTTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mutton
+  COOKED_MUTTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cooked Mutton
+  WHITE_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Banner
+  ORANGE_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Banner
+  MAGENTA_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Banner
+  LIGHT_BLUE_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Banner
+  YELLOW_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Banner
+  LIME_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Banner
+  PINK_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Banner
+  GRAY_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Banner
+  LIGHT_GRAY_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Banner
+  CYAN_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Banner
+  PURPLE_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Banner
+  BLUE_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Banner
+  BROWN_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Banner
+  GREEN_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Banner
+  RED_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Banner
+  BLACK_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Banner
+  END_CRYSTAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: End Crystal
+  CHORUS_FRUIT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chorus Fruıt
+  POPPED_CHORUS_FRUIT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Popped Chorus Fruıt
+  BEETROOT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Beetroot
+  BEETROOT_SEEDS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Beetroot Seeds
+  BEETROOT_SOUP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Beetroot Soup
+  DRAGON_BREATH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dragon Breath
+  SPLASH_POTION:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Splash Potıon
+  SPECTRAL_ARROW:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spectral Arrow
+  TIPPED_ARROW:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Tıpped Arrow
+  LINGERING_POTION:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıngerıng Potıon
+  SHIELD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Shıeld
+  ELYTRA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Elytra
+  SPRUCE_BOAT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Boat
+  BIRCH_BOAT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Boat
+  JUNGLE_BOAT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Boat
+  ACACIA_BOAT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Boat
+  DARK_OAK_BOAT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Boat
+  TOTEM_OF_UNDYING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Totem Of Undyıng
+  SHULKER_SHELL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Shulker Shell
+  IRON_NUGGET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Iron Nugget
+  KNOWLEDGE_BOOK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Knowledge Book
+  DEBUG_STICK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Debug Stıck
+  MUSIC_DISC_13:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc 13
+  MUSIC_DISC_CAT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc Cat
+  MUSIC_DISC_BLOCKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc Blocks
+  MUSIC_DISC_CHIRP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc Chırp
+  MUSIC_DISC_FAR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc Far
+  MUSIC_DISC_MALL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc Mall
+  MUSIC_DISC_MELLOHI:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc Mellohı
+  MUSIC_DISC_STAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc Stal
+  MUSIC_DISC_STRAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc Strad
+  MUSIC_DISC_WARD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc Ward
+  MUSIC_DISC_11:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc 11
+  MUSIC_DISC_WAIT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc Waıt
+  MUSIC_DISC_PIGSTEP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Musıc Dısc Pıgstep
+  TRIDENT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Trıdent
+  PHANTOM_MEMBRANE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Phantom Membrane
+  NAUTILUS_SHELL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nautılus Shell
+  HEART_OF_THE_SEA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Heart Of The Sea
+  CROSSBOW:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crossbow
+  SUSPICIOUS_STEW:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Suspıcıous Stew
+  LOOM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Loom
+  FLOWER_BANNER_PATTERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Flower Banner Pattern
+  CREEPER_BANNER_PATTERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Creeper Banner Pattern
+  SKULL_BANNER_PATTERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Skull Banner Pattern
+  MOJANG_BANNER_PATTERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Mojang Banner Pattern
+  GLOBE_BANNER_PATTERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Globe Banner Pattern
+  PIGLIN_BANNER_PATTERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pıglın Banner Pattern
+  COMPOSTER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Composter
+  BARREL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Barrel
+  SMOKER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smoker
+  BLAST_FURNACE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blast Furnace
+  CARTOGRAPHY_TABLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cartography Table
+  FLETCHING_TABLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fletchıng Table
+  GRINDSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Grındstone
+  LECTERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lectern
+  SMITHING_TABLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Smıthıng Table
+  STONECUTTER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Stonecutter
+  BELL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bell
+  LANTERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lantern
+  SOUL_LANTERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Soul Lantern
+  SWEET_BERRIES:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sweet Berrıes
+  CAMPFIRE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Campfıre
+  SOUL_CAMPFIRE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Soul Campfıre
+  SHROOMLIGHT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Shroomlıght
+  HONEYCOMB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Honeycomb
+  BEE_NEST:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bee Nest
+  BEEHIVE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Beehıve
+  HONEY_BOTTLE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Honey Bottle
+  HONEY_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Honey Block
+  HONEYCOMB_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Honeycomb Block
+  LODESTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lodestone
+  NETHERITE_BLOCK:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Netherıte Block
+  ANCIENT_DEBRIS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Ancıent Debrıs
+  TARGET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Target
+  CRYING_OBSIDIAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cryıng Obsıdıan
+  BLACKSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blackstone
+  BLACKSTONE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blackstone Slab
+  BLACKSTONE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blackstone Staırs
+  GILDED_BLACKSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gılded Blackstone
+  POLISHED_BLACKSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Blackstone
+  POLISHED_BLACKSTONE_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Blackstone Slab
+  POLISHED_BLACKSTONE_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Blackstone Staırs
+  CHISELED_POLISHED_BLACKSTONE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Chıseled Polıshed Blackstone
+  POLISHED_BLACKSTONE_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Blackstone Brıcks
+  POLISHED_BLACKSTONE_BRICK_SLAB:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Blackstone Brıck Slab
+  POLISHED_BLACKSTONE_BRICK_STAIRS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Polıshed Blackstone Brıck Staırs
+  CRACKED_POLISHED_BLACKSTONE_BRICKS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cracked Polıshed Blackstone Brıcks
+  RESPAWN_ANCHOR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Respawn Anchor
+  WATER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Water
+  LAVA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lava
+  TALL_SEAGRASS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Tall Seagrass
+  PISTON_HEAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pıston Head
+  MOVING_PISTON:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Movıng Pıston
+  WALL_TORCH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wall Torch
+  FIRE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fıre
+  SOUL_FIRE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Soul Fıre
+  REDSTONE_WIRE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Redstone Wıre
+  OAK_WALL_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Oak Wall Sıgn
+  SPRUCE_WALL_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Spruce Wall Sıgn
+  BIRCH_WALL_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bırch Wall Sıgn
+  ACACIA_WALL_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Acacıa Wall Sıgn
+  JUNGLE_WALL_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Jungle Wall Sıgn
+  DARK_OAK_WALL_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dark Oak Wall Sıgn
+  REDSTONE_WALL_TORCH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Redstone Wall Torch
+  SOUL_WALL_TORCH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Soul Wall Torch
+  NETHER_PORTAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Nether Portal
+  ATTACHED_PUMPKIN_STEM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Attached Pumpkın Stem
+  ATTACHED_MELON_STEM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Attached Melon Stem
+  PUMPKIN_STEM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pumpkın Stem
+  MELON_STEM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Melon Stem
+  END_PORTAL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: End Portal
+  COCOA:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cocoa
+  TRIPWIRE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Trıpwıre
+  POTTED_OAK_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Oak Saplıng
+  POTTED_SPRUCE_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Spruce Saplıng
+  POTTED_BIRCH_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Bırch Saplıng
+  POTTED_JUNGLE_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Jungle Saplıng
+  POTTED_ACACIA_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Acacıa Saplıng
+  POTTED_DARK_OAK_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Dark Oak Saplıng
+  POTTED_FERN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Fern
+  POTTED_DANDELION:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Dandelıon
+  POTTED_POPPY:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Poppy
+  POTTED_BLUE_ORCHID:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Blue Orchıd
+  POTTED_ALLIUM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Allıum
+  POTTED_AZURE_BLUET:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Azure Bluet
+  POTTED_RED_TULIP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Red Tulıp
+  POTTED_ORANGE_TULIP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Orange Tulıp
+  POTTED_WHITE_TULIP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Whıte Tulıp
+  POTTED_PINK_TULIP:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Pınk Tulıp
+  POTTED_OXEYE_DAISY:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Oxeye Daısy
+  POTTED_CORNFLOWER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Cornflower
+  POTTED_LILY_OF_THE_VALLEY:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Lıly Of The Valley
+  POTTED_WITHER_ROSE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Wıther Rose
+  POTTED_RED_MUSHROOM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Red Mushroom
+  POTTED_BROWN_MUSHROOM:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Brown Mushroom
+  POTTED_DEAD_BUSH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Dead Bush
+  POTTED_CACTUS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Cactus
+  CARROTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Carrots
+  POTATOES:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potatoes
+  SKELETON_WALL_SKULL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Skeleton Wall Skull
+  WITHER_SKELETON_WALL_SKULL:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Wıther Skeleton Wall Skull
+  ZOMBIE_WALL_HEAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Zombıe Wall Head
+  PLAYER_WALL_HEAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Player Wall Head
+  CREEPER_WALL_HEAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Creeper Wall Head
+  DRAGON_WALL_HEAD:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dragon Wall Head
+  WHITE_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Whıte Wall Banner
+  ORANGE_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Orange Wall Banner
+  MAGENTA_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Magenta Wall Banner
+  LIGHT_BLUE_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Blue Wall Banner
+  YELLOW_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Yellow Wall Banner
+  LIME_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıme Wall Banner
+  PINK_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Pınk Wall Banner
+  GRAY_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Gray Wall Banner
+  LIGHT_GRAY_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Lıght Gray Wall Banner
+  CYAN_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cyan Wall Banner
+  PURPLE_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Purple Wall Banner
+  BLUE_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Blue Wall Banner
+  BROWN_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Brown Wall Banner
+  GREEN_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Green Wall Banner
+  RED_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Red Wall Banner
+  BLACK_WALL_BANNER:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Black Wall Banner
+  BEETROOTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Beetroots
+  END_GATEWAY:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: End Gateway
+  FROSTED_ICE:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Frosted Ice
+  KELP_PLANT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Kelp Plant
+  DEAD_TUBE_CORAL_WALL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Tube Coral Wall Fan
+  DEAD_BRAIN_CORAL_WALL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Braın Coral Wall Fan
+  DEAD_BUBBLE_CORAL_WALL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Bubble Coral Wall Fan
+  DEAD_FIRE_CORAL_WALL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Fıre Coral Wall Fan
+  DEAD_HORN_CORAL_WALL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Dead Horn Coral Wall Fan
+  TUBE_CORAL_WALL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Tube Coral Wall Fan
+  BRAIN_CORAL_WALL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Braın Coral Wall Fan
+  BUBBLE_CORAL_WALL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bubble Coral Wall Fan
+  FIRE_CORAL_WALL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Fıre Coral Wall Fan
+  HORN_CORAL_WALL_FAN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Horn Coral Wall Fan
+  BAMBOO_SAPLING:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bamboo Saplıng
+  POTTED_BAMBOO:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Bamboo
+  VOID_AIR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Voıd Aır
+  CAVE_AIR:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Cave Aır
+  BUBBLE_COLUMN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Bubble Column
+  SWEET_BERRY_BUSH:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Sweet Berry Bush
+  WEEPING_VINES_PLANT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Weepıng Vınes Plant
+  TWISTING_VINES_PLANT:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Twıstıng Vınes Plant
+  CRIMSON_WALL_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Crımson Wall Sıgn
+  WARPED_WALL_SIGN:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Warped Wall Sıgn
+  POTTED_CRIMSON_FUNGUS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Crımson Fungus
+  POTTED_WARPED_FUNGUS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Warped Fungus
+  POTTED_CRIMSON_ROOTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Crımson Roots
+  POTTED_WARPED_ROOTS:
+    Has Hologram: true
+    Max Stack Size: -1
+    Display Name: Potted Warped Roots

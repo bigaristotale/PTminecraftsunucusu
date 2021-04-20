@@ -1,0 +1,44 @@
+Kits:
+  firework:
+    delay: 6000
+    price: 0.0
+    hidden: false
+    animation: NONE
+    items:
+    - '{id:"minecraft:firework_rocket",Count:1b,tag:{Fireworks:{Flight:1b,Explosions:[{Type:3b,Colors:[I;11743532],FadeColors:[I;3887386]}]},display:{Name:''{"extra":[{"text":"Angry Creeper"}],"text":""}''}}}'
+    - '{id:"minecraft:firework_rocket",Count:2b,tag:{Fireworks:{Explosions:[{Type:1b,Colors:[I;14602026,15435844],Flicker:1b,FadeColors:[I;11743532]},{Type:0b,Trail:1b,Colors:[I;14602026,15435844],FadeColors:[I;11743532]}]},display:{Name:''{"extra":[{"text":"Solar Wind"}],"text":""}''}}}'
+    - '{id:"minecraft:firework_rocket",Count:1b,tag:{Fireworks:{Flight:1b,Explosions:[{Type:2b,Trail:1b,Colors:[I;14602026,15435844],Flicker:1b,FadeColors:[I;2437522]}]},display:{Name:''{"extra":[{"text":"Starry Night"}],"text":""}''}}}'
+  color:
+    delay: 6000
+    price: 0.0
+    hidden: false
+    animation: NONE
+    items:
+    - '{id:"minecraft:written_book",Count:1b,tag:{pages:[''{"extra":[{"text":"Minecraft colors:\\n"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"black","text":" &0  "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":" &1  "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_green","text":" &2  "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_aqua","text":" &3\\n"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":" &4  "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_purple","text":" &5  "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":" &6  "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":" &7\\n"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":" &8  "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":" &9  "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":" &a  "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":" &b\\n"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":" &c  "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"light_purple","text":" &d  "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":" &e  "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":" &f\\n"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"black","text":" \\n&k "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":true,"color":"black","text":"Magic"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"   &l "},{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"Bold"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"\\n&m "},{"bold":false,"italic":false,"underlined":false,"strikethrough":true,"obfuscated":false,"text":"Strike"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"  &n "},{"bold":false,"italic":false,"underlined":true,"strikethrough":false,"obfuscated":false,"text":"Uline"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"\\n&o "},{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"Italic"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"   &r "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"Reset\\n"}],"text":""}''],title:"§4Book §9o §6Colors",author:"KHobbits",display:{Lore:[''{"extra":[{"text":"Ingame color codes"}],"text":""}'']}}}'
+  notch:
+    delay: 6000
+    price: 0.0
+    hidden: false
+    animation: NONE
+    items:
+    - '{id:"minecraft:player_head",Count:1b,tag:{SkullOwner:{Id:[I;110787060,1156138790,-1514210135,238594805],Name:"Notch"}}}'
+  dtools:
+    delay: 600
+    price: 0.0
+    hidden: false
+    animation: NONE
+    items:
+    - '{id:"minecraft:diamond_pickaxe",Count:1b,tag:{Damage:0,display:{Lore:[''{"extra":[{"text":"The drill that "},{"underlined":true,"text":"pierces"}],"text":""}'',''{"extra":[{"text":"the heavens"}],"text":""}''],Name:''{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"Gigadrill"}],"text":""}''},Enchantments:[{lvl:1s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"},{lvl:1s,id:"minecraft:fortune"}]}}'
+    - '{id:"minecraft:leather_helmet",Count:1b,tag:{Damage:0,display:{Lore:[''{"extra":[{"text":"Good day, Good day"}],"text":""}''],color:16777215,Name:''{"extra":[{"text":"Top Hat"}],"text":""}''}}}'
+    - '{id:"minecraft:diamond_axe",Count:1b,tag:{Damage:780}}'
+    - '{id:"minecraft:diamond_shovel",Count:1b,tag:{Damage:0,display:{Lore:[''{"extra":[{"text":"Diggy"}],"text":""}'',''{"extra":[{"text":"Diggy"}],"text":""}'',''{"extra":[{"text":"Hole"}],"text":""}''],Name:''{"extra":[{"text":"Dwarf"}],"text":""}''},Enchantments:[{lvl:3s,id:"minecraft:efficiency"}]}}'
+  tools:
+    delay: 10
+    price: 0.0
+    hidden: false
+    animation: NONE
+    items:
+    - '{id:"minecraft:stone_axe",Count:1b,tag:{Damage:0}}'
+    - '{id:"minecraft:stone_sword",Count:1b,tag:{Damage:0}}'
+    - '{id:"minecraft:stone_shovel",Count:1b,tag:{Damage:0}}'
+    - '{id:"minecraft:stone_pickaxe",Count:1b,tag:{Damage:0}}'
