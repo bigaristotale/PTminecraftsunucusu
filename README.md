@@ -1,2 +1,2 @@
 # PTsunucusu
- Memeli ve tocla yapılan bişi arda malı yanda dinliyo
+ Memeli ve tocla yapılan bi branch denemesi abe arda malı yanda dinliyo
