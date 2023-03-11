@@ -1,2 +1,2 @@
 # PTsunucusu
- Memeli ve tocla yapılan bişi ardamalı yanda dinliyo
+ Memeli ve tocla yapılan bişi arda malı yanda dinliyo
